@@ -1,3 +1,4 @@
+// eslint-disable-next-line react-refresh/only-export-components
 function Hello()
 {
     return (
@@ -5,6 +6,7 @@ function Hello()
         );
 }
 
+// eslint-disable-next-line react-refresh/only-export-components
 function Galaxy(props)
 {
     return (
@@ -16,6 +18,7 @@ function Galaxy(props)
         </div>
     );
 }
+// eslint-disable-next-line react-refresh/only-export-components
 function Star()
 {
     return (
@@ -23,6 +26,7 @@ function Star()
         process="Nuclear Fission and Fusion"></Galaxy>
     );
 }
+// eslint-disable-next-line react-refresh/only-export-components
 function Summary(props)
 {
     return (
@@ -42,6 +46,7 @@ function Summary(props)
         </p>
     );
 }
+// eslint-disable-next-line react-refresh/only-export-components
 function Animator (){
     return (
         <Summary
